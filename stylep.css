@@ -1,0 +1,49 @@
+h1{
+    font-size: 40px;
+    font-family:cursive;
+    font-weight:bold;
+    text-align:center;
+    align-items:center;
+    color:crimson;
+}
+
+body{
+    background-image:url("images/abs.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-blend-mode: darken;
+    
+}
+div{
+    border-style:solid;
+    border-color:darkkhaki;
+    text-align:center;
+    color:crimson;
+    font-family: sans-serif; 
+    margin-left: auto;
+    margin-right: auto;
+    width:400px;
+    display: block;
+    background-color: floralwhite;
+    opacity:0.6;
+}
+img{
+    padding-top: 40px;
+    float: right;
+    opacity: 0.8;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:x-large;
+    color: crimson;
+    
+
+
+
+;
+}
+
+
+
+
