@@ -1,0 +1,21 @@
+#one{
+    background-color: blue;
+    position: fixed;
+}
+
+#second{
+   background-color: brown;
+   position: relative;
+
+}
+#third{
+    background-color: chartreuse;
+    position: static;
+    
+}
+
+#fourth{
+     background-color: crimson;
+     position: absolute;
+
+}
